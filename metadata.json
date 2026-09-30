@@ -1,0 +1,6 @@
+{
+  "name": "ImpactLens",
+  "description": "AI-powered NGO and sustainability media intelligence platform. Understand, organize, compare and communicate field evidence with AI and Cloudinary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
